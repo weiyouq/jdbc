@@ -2,7 +2,7 @@ package com.kenny.test;
 
 import java.sql.*;
 
-public class Test {
+public class JdbcTest {
 
     public static void main(String[] args) {
         Connection ct;
