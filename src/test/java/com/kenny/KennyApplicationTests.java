@@ -18,7 +18,6 @@ public class KennyApplicationTests {
 	@Test
 	public void contextLoads(){
 
-
 	}
 
 }
